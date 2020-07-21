@@ -1,0 +1,31 @@
+{
+  "name": "dotnetcoreconvermodels",
+  "version": "1.0.0",
+  "description": "dotnetcoreconvermodels is a nodejs library that convert the C# models into typescript models.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweHassanAhmed/dotnetcoreconvermodels.git"
+  },
+  "keywords": [
+    "dotnetcore",
+    "convertmodels",
+    "typescript",
+    "entityframework",
+    "modelsfromdotnetcoretotypescript"
+  ],
+  "author": "Hassan Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SweHassanAhmed/dotnetcoreconvermodels/issues"
+  },
+  "homepage": "https://github.com/SweHassanAhmed/dotnetcoreconvermodels#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "fswin": "^3.19.908",
+    "n-readlines": "^1.0.0"
+  }
+}
