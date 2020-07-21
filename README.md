@@ -22,7 +22,11 @@ var g = new ConvertProcess([
 ```
 
 first parameters are the pathes to the C# models.
+
 second parameter is the path to put the TypeScript models in.
+
+third parameter is config to specific either using camel case in converting property
+                                         and using default in exporting class in typescript
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
