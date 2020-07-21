@@ -1,6 +1,6 @@
-import ConvertProcess from 'dotnetcoreconvertmodels/index.js';
+import ConvertProcess from 'dotnetcoreconvermodels/index.js';
 
-var g = new ConvertProcess([
+var Go = new ConvertProcess([
     '../BackEnd/Data/Model1',
     '../BackEnd/Data/Model2',
     '../BackEnd/Data/Model3'
